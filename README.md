@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalyanamsravanthi97
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c
+- 🌱 @aspiring fullstack developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me kalyanamsravanthi97@gmail.com
 
