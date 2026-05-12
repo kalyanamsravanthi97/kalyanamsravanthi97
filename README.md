@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalyanamsravanthi97
 - 👀 I’m interested in coding
 - 🌱 @aspiring fullstack developer
-- 💞️ I’m looking to collaborate on 
+- 💞️ Currently learning java backend development and data structures & algorithms.
 - 📫 How to reach me kalyanamsravanthi97@gmail.com
 
 <!---
